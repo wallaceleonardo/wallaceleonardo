@@ -32,15 +32,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wallaceleonardo)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
-    <style>
-        h3 {
-            color: yellow;
-            text-align: center;
-            font-size: 22px;
-            font-family: arial;
-        }
-    </style>
-    <h3>“Se não der certo da primeira vez, chame de versão 1.0.”</h3>
+    <h2>“Se não der certo da primeira vez, chame de versão 1.0.”</h2>
 </div>
 
 <h2> wallace.tolentino@gmail.com</h3>
