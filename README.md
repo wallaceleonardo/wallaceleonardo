@@ -28,6 +28,11 @@
     <img aling="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />  
 </div></br>
 
+## Linguagens de Programação que mais utilizo
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wallaceleonardo)](https://github.com/anuraghazra/github-readme-stats)
+
+
 Apaixonado por Tecnologia
 
 ## E-mail: wallace.tolentino@gmail.com
