@@ -34,7 +34,7 @@
 <div>
     <style>
         h3 {
-            color: red;
+            color: yellow;
             text-align: center;
             font-size: 22px;
             font-family: arial;
