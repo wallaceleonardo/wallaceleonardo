@@ -1,6 +1,5 @@
 
-
-### Olá! Eu sou o Wallace Leonardo Tolentino 👋
+<h1>Olá! Eu sou o Wallace Leonardo Tolentino 👋</h1>
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wallace-leonardo-tolentino-59764621/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/wallaceleonardo.tolentino)
@@ -9,7 +8,7 @@
 ![Wallace Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=wallaceleonardo&show_icons=true&theme=dracula)
 
 
-## Tecnologias que eu uso no meu dia-a-dia 👨‍💻
+<h2>Tecnologias que eu uso no meu dia-a-dia 👨‍💻</h2>
 
 <div style="display: inline_block"></br>
     <img aling="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -28,15 +27,22 @@
     <img aling="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />  
 </div></br>
 
-## Linguagens de Programação que mais utilizo 👨‍💻
+<h2>Linguagens de Programação que mais utilizo 👨‍💻</h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wallaceleonardo)](https://github.com/anuraghazra/github-readme-stats)
 
-
-Apaixonado por Tecnologia
 <div>
-    <h3>wallace.tolentino@gmail.com</h3>
-    <img aling="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />  
+    <style>
+        h3 {
+            color: red;
+            text-align: center;
+            font-size: 22px;
+            font-family: arial;
+        }
+    </style>
+    <h3>“Se não der certo da primeira vez, chame de versão 1.0.”</h3>
 </div>
 
+<h2> wallace.tolentino@gmail.com</h3>
+<img aling="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
 
