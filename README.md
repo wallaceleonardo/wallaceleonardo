@@ -1,3 +1,5 @@
+
+
 ### Olá! Eu sou o Wallace Leonardo Tolentino 👋
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wallace-leonardo-tolentino-59764621/)
@@ -33,4 +35,4 @@
 
 Apaixonado por Tecnologia
 
-## E-mail: wallace.tolentino@gmail.com
+## [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](wallace.tolentino@gmail.com/)
