@@ -31,14 +31,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wallaceleonardo)](https://github.com/anuraghazra/github-readme-stats)
 
-<div>
-    <style>
-        h3 {
-           color: yellow;
-        }
-    </style>
-    <h3>“Se não der certo da primeira vez, chame de versão 1.0.”</h3>
-</div>
+
+## color: yellow “Se não der certo da primeira vez, chame de versão 1.0.”
 
 <h2> wallace.tolentino@gmail.com</h3>
 <img aling="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
