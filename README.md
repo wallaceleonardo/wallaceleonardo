@@ -8,7 +8,7 @@
 ![Wallace Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=wallaceleonardo&show_icons=true&theme=dracula)
 
 
-<h2>Tecnologias que eu uso no meu dia-a-dia 👨‍💻</h2>
+<h2>Possuo conhecimento nestas Tecnologias 👨‍💻</h2>
 
 <div style="display: inline_block"></br>
     <img aling="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -27,7 +27,7 @@
     <img aling="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />  
 </div></br>
 
-<h2>Linguagens de Programação que mais utilizo 👨‍💻</h2>
+<h2>Minhas estatísticas sobre Linguagens de Programação 👨‍💻</h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wallaceleonardo)](https://github.com/anuraghazra/github-readme-stats)
 
