@@ -34,5 +34,9 @@
 
 
 Apaixonado por Tecnologia
+<div>
+    <p>wallace.tolentino@gmail.com</p>
+    <img aling="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />  
+</div>
 
-## [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](wallace.tolentino@gmail.com/)
+
