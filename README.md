@@ -6,8 +6,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wallace.tolentino/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_WallaceLT)
 [![Stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17588146/wallace-leonardo-tolentino)
-[![Pinterest](https://aleen42.github.io/badges/src/pinterest.svg)](https://br.pinterest.com/wallacetolentino/_saved/)
-
 
 
 ![Wallace Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=wallaceleonardo&show_icons=true&theme=dracula)
