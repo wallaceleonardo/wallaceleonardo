@@ -31,7 +31,7 @@
     <img aling="center" alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />  
 </div></br>
 
-<h2>Sei utilizar as seguintes IDEs 👨‍💻</h2>
+<h2>Utilizo essas IDEs no dia-a-dia 👨‍💻</h2>
 
 <div style="display: inline_block"></br>
     <img aling="center" alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
