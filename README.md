@@ -8,7 +8,7 @@
 [![Stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17588146/wallace-leonardo-tolentino)
 
 
-![Wallace Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=wallaceleonardo&show_icons=true&theme=dracula)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wallaceleonardo&layout=compact&theme=dracula)](https://github.com/wallaceleonardo)
+![Wallace Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=wallaceleonardo&show_icons=true&theme=dracula) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wallaceleonardo&layout=compact&theme=dracula)](https://github.com/wallaceleonardo)
 
 
 <h2>Possuo conhecimento nestas Tecnologias 👨‍💻</h2>
