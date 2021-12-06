@@ -47,11 +47,6 @@
 </div></br>   
  
 
-<h2>Minhas estatísticas sobre Linguagens de Programação 👨‍💻</h2>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wallaceleonardo)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ## 💡 “Se não der certo da primeira vez, chame de versão 1.0.”
 
 ## e-mail: wallace.tolentino@gmail.com
