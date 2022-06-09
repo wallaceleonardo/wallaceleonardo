@@ -90,4 +90,5 @@
 ## 💡 “Se não der certo da primeira vez, chame de versão 1.0.”
 
 ## e-mail: wallace.tolentino@gmail.com
+## linkedin: https://www.linkedin.com/in/wallaceltolentino/ 
 
